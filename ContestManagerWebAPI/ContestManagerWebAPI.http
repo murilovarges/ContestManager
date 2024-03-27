@@ -1,0 +1,6 @@
+@ContestManagerWebAPI_HostAddress = http://localhost:5181
+
+GET {{ContestManagerWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
